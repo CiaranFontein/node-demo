@@ -16,5 +16,8 @@
     "gulp-eslint": "^6.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-terser": "^1.2.0"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }
